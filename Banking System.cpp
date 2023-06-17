@@ -2,6 +2,9 @@
 int sum(int a, int b) {
     return a + b;
 }
+void hello() {
+    printf("hello world");
+}
 int main() {
     int a, b;
     //abc
